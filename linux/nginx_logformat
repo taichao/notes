@@ -1,0 +1,4 @@
+log_format  main  '[$remote_addr] [$time_local] [$request] '
+                      '[$status]  [$http_referer] '
+                      '[$http_user_agent] [$request_time]  '
+                      '[$request_body]';
