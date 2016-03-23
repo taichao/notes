@@ -1,0 +1,2 @@
+ssh,duobaohui@225.shinc.net,duobaohui.com,夺宝会项目发布
+mysql,-h123.56.57.1 -ushi -ps -Dsh_duobi,137-duoui
