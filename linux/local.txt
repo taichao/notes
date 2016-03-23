@@ -1,0 +1,6 @@
+/Users/zhangtaichao/code/php/duobaohui_mgmt
+/Users/zhangtaichao/code/php/duobaohui_php
+/Users/zhangtaichao/code/php/duobaohui_web
+/Users/zhangtaichao/code/android/duobaohui
+/Users/zhangtaichao/code/xhs_data/xhs_data_core
+/Users/zhangtaichao/code/xhs_data/xhs_data_web
